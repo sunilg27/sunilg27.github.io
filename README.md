@@ -1,4 +1,5 @@
-# OpenText D2 Smartview SDK - Documentation
+
+## OpenText D2 Smartview SDK - Documentation
 
 > <p style="color:green"> This repository host the documentation code for D2 Smartview SDK - Documentation. </p>
 
@@ -18,3 +19,9 @@ This Documentation consists of the following:
 | Previous   | 23.2.0         | [Click here](https://opentext.github.io/d2sv-sdk/23.2.0/) |  
 
 Check out [Opentext developer portal](https://developer.opentext.com/) for more details.
+
+<style>
+h1 {
+  display: none;
+}
+</style>
